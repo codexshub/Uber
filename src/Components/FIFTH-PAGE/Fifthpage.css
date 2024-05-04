@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Roboto:wght@300;400;500;700;900&display=swap');
+
+.Sexth-page-section{
+    padding: 70px 0;
+    background-color: #000;
+    align-items: center;
+    display: flex;
+}
+.Sixth-page-content{
+    display: flex;
+    justify-content: center ;
+}
+.SethHeading h1 span{
+    color: #d34f2d;
+    font-family: 'Montserrat', sans-serif;
+}
+.SethHeading h1{
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    font-size: 45px;
+    text-align: center;
+}
+.Download-option-2{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+/* Responsiveness start */
+
+@media only screen and (max-width: 992px){
+    .SethHeading h1 {
+        font-size: 35px;
+    }
+    
+}
+ @media only screen and (max-width: 768px){
+.SethHeading h1 {
+    font-size: 26px;
+}
+ } 
+ @media only screen and (max-width: 577px){
+    .Sexth-page-section {
+        padding: 45px 0;
+
+    }
+    .SethHeading h1 {
+        font-size: 20px;
+    }
+    .Download-option-2 {
+        margin-top: 15px;
+    }
+ }
+ @media only screen and (max-width: 400px){
+    .Sexth-page-section {
+        padding: 31px 0;
+    }
+    .SethHeading h1 {
+        font-size: 12px;
+    }
+    .Download-option-2 {
+        margin-top: 8px;
+    }
+}

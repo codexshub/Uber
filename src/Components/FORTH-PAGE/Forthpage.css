@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Roboto:wght@300;400;500;700;900&display=swap');
+
+
+.Forth-page-section{
+    background-color: #000;
+    padding: 100px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Forth-page{
+    display: flex;
+    justify-content: center;
+}
+.ForthSubTitle p{
+    margin-top: 5px;
+}
+.ForthSubTitle h1{
+    color: #fff;
+    font-size: 80px;
+}
+.ForthSubTitle h2{
+    color: #fff;
+    font-size: 45px;
+    font-family: 'Roboto', sans-serif;
+}
+.ForthSubTitle h2 span{
+    color: #d34f2d;
+}
+.ForthSubTitle p{
+    color: #999999;
+}
+
+ /* Responsiveness start */
+
+ @media only screen and (max-width: 992px){
+    .ForthSubTitle h2 {
+        font-size: 34px;
+    }
+ }
+ @media only screen and (max-width: 768px){
+.ForthSubTitle h1 {
+    margin-bottom: -30px;
+}
+.ForthSubTitle h2 {
+    font-size: 25px;
+}
+.Forth-page-section {
+    padding: 50px 0;
+}
+ }
+ @media only screen and (max-width: 400px){
+    .Forth-page-section {
+        padding: 25px 0;
+    }
+    .ForthSubTitle h1 {
+        font-size: 45px !important;
+        margin-bottom: -20px;
+    }
+    .ForthSubTitle h2 {
+        font-size: 12px !important;
+    }
+    .ForthSubTitle p {
+        margin-top: 2px !important;
+        font-size: 8px !important;
+    }
+ }
