@@ -135,6 +135,13 @@
     .list {
         justify-content: start;
     }
+        .hoverNav li{
+        padding-left: 10px;
+    }
+    .hoverNav {
+        width: 166px;
+        margin-left: -65px;
+    }
 }
 @media only screen and (max-width: 400px){
     .Menu-List{
