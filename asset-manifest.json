@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Uber/static/css/main.f9d8525e.css",
+    "main.js": "/Uber/static/js/main.22c96529.js",
+    "static/media/img1.png": "/Uber/static/media/img1.c17ed9fd9c2d12ae3738.png",
+    "static/media/img2.png": "/Uber/static/media/img2.4764eea28fdb76044c53.png",
+    "static/media/instagram.png": "/Uber/static/media/instagram.8e408da00539cdef4629.png",
+    "static/media/googleplay.png": "/Uber/static/media/googleplay.52bfbb500943502c2341.png",
+    "static/media/github.png": "/Uber/static/media/github.f3d873d71aa989badfd2.png",
+    "static/media/linkedin.png": "/Uber/static/media/linkedin.d21b834035baa551e886.png",
+    "static/media/twitter.png": "/Uber/static/media/twitter.802534bf2678c3afb41d.png",
+    "static/media/facebook.png": "/Uber/static/media/facebook.795fce8e464693d7346d.png",
+    "static/media/apple.png": "/Uber/static/media/apple.7680fd65cc0d9196de6d.png",
+    "static/media/behance.png": "/Uber/static/media/behance.ae5fdb3ba13e93229eae.png",
+    "static/media/playbtn.png": "/Uber/static/media/playbtn.8b0319be709952728a2d.png",
+    "index.html": "/Uber/index.html",
+    "main.f9d8525e.css.map": "/Uber/static/css/main.f9d8525e.css.map",
+    "main.22c96529.js.map": "/Uber/static/js/main.22c96529.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9d8525e.css",
+    "static/js/main.22c96529.js"
+  ]
+}
